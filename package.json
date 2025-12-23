@@ -1,0 +1,13 @@
+
+{
+  "name": "isl-sense-mvp",
+  "version": "1.0.0",
+  "scripts": {
+    "dev:backend": "python main.py",
+    "dev:frontend": "npm run dev",
+    "start-all": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\""
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

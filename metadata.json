@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ISL-Gesture-Detect",
+  "description": "A Micro-SaaS dashboard for real-time Indian Sign Language (ISL) gesture detection using MediaPipe and TensorFlow.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
